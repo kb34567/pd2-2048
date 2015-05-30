@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>2.jpg</file>
+        <file>32.jpg</file>
+        <file>512.jpg</file>
+        <file>2048.jpg</file>
+        <file>0.jpg</file>
+        <file>4.jpg</file>
+        <file>1024.jpg</file>
+        <file>8.jpg</file>
+        <file>256.jpg</file>
+        <file>128.jpg</file>
+        <file>64.jpg</file>
+        <file>16.jpg</file>
+    </qresource>
+</RCC>
